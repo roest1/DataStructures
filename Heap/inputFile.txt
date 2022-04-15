@@ -1,0 +1,13 @@
+11
+IN 10
+IN 15
+IN 27
+EM
+IN 13
+IN 11
+IN 5 
+IN 6
+DK 5 4
+IN 3
+EM
+
